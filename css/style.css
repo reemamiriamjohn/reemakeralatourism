@@ -1,0 +1,264 @@
+/* about */
+.sidebar{
+    background-color: peachpuff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    padding:3%;
+    margin-right: 35%;
+    margin-top: 5%;
+    margin-left: 15%;
+    
+
+
+}
+/* about page ends */
+/* 14 pages */
+.heads{ 
+    background-color: lightblue;
+    
+    padding: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+    
+}
+.district {
+    padding-left: 35%;
+    padding-right: 35%;
+    
+    
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sights {
+     text-align: center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-decoration:underline ;
+}
+.hhh {
+    border: 2px solid  green;
+    padding-left: 25px;
+    padding-top: 25px;
+    
+ } 
+ /* 14 pages ends */
+img {
+    height: 1000px;
+    width: 1000px;
+    padding: px; 
+    
+}
+.container {
+    border: 5px solid green;
+    background-color: lightblue;
+    
+
+
+}
+.sub {
+    text-align: center;
+    text-decoration:underline
+}
+
+a:hover {
+    color: red;
+}
+.box {
+    border: 2px solid black;
+    padding: 25px;
+    margin: 150px;
+    background-color:gainsboro ;
+}
+
+.middle{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 150px;
+    background-color:gainsboro ;
+}
+
+
+.tool{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .logo { */
+    
+.seek img{
+    height: 300px;
+    width: 300px;
+    
+    /* padding: 15px; 
+    margin: 5px;
+    /* margin-left: 15px */
+    
+}
+.main img{
+    height: 300px;
+    width: 300px;
+}
+
+.back img{
+    height: 55px;
+    width: 55px;
+}
+/* district page allignment */
+/* .clear{ 
+      padding:2px;
+      margin: 15px;
+      margin-left: 25px;
+      
+}
+.clearr {
+     margin-left: 85px;
+}
+.ekm img{ 
+    float: left;
+    margin-left: 500px;
+    padding-top: px;
+    top: 1em;
+    margin-top: -340px;
+    
+}
+.ekmm{
+     margin-left: 85px; 
+    padding-left: 500px;
+    margin-top: 
+}
+
+.idu img{
+padding: ;
+float: right;
+  */
+.alp{
+    
+    clear: left;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+.alp1 {
+    margin-left: 75px;
+}
+.ekm {
+    margin-top:-350px;
+    padding-left: 500px;
+}
+.ekm1{
+    margin-left:105px;
+}
+.idu img{
+    float: right;
+    margin-top: -320px;
+    padding-right: 75px;
+   
+}
+.idu1{ 
+    margin-right: 175px;
+    float: right;
+    margin-top: -17px;
+ } 
+ .kan {
+     padding-left: 25px;
+     padding-top: 70px;
+ }
+ .kan1 {
+     margin-left: 75px;
+ }
+ .kas {
+     padding-left: 500px;
+     margin-top: -320px;
+ }
+ .kas1 {
+     margin-left: 575px;
+ }
+ .kol{
+     float:right;
+     margin-top:-320px;
+     padding-right: 75px;
+ }
+ .kol1{
+     margin-left: 1150px;
+     margin-top: -18px;
+ }
+ .kot {
+     padding-left: 25px;
+     padding-top: 70px;
+ }
+ .kot1{
+    margin-left: 75px; 
+ }
+ .koz{
+     padding-left: 500px;
+     margin-top: -320px;
+ }
+ .koz1{
+     margin-left: 575px;
+ }
+ .mal{
+     float:right;
+     margin-top: -320px;
+     padding-right: 75px;
+ }
+ .mal1{
+     margin-left: 1150px;
+     margin-top: -18px;
+ }
+ .pal{
+    padding-left: 25px;
+    padding-top: 70px;
+ }
+ .pal1{
+    margin-left: 75px; 
+ }
+ .pat{
+    padding-left: 500px;
+    margin-top: -320px;
+ }
+ .pat1{
+    margin-left: 575px;
+ }
+ .thi{
+    float:right;
+    margin-top: -320px;
+    padding-right: 75px;
+   
+ }
+ .thi1{
+    margin-left: 1100px;
+    margin-top: -18px;
+ }
+ .thr{
+    padding-left: 25px;
+    padding-top: 70px;
+ }
+ .thr1{
+    margin-left: 75px; 
+ }
+ .way{
+    padding-left: 500px;
+    margin-top: -320px;
+ }
+ .way1{
+    margin-left: 575px;
+
+ }
+ .next{
+     float: right;
+     padding-right: 75px;
+     margin-top: -370px;
+ }
+ .next1{
+    float: right;
+    padding-right: 75px;
+    margin-top: -370px;
+ }
+ .clip{
+    border: 2px solid black;
+    padding: 35%;
+    margin:  25px;
+    margin-top: -200px;
+}
+
+
+ 
